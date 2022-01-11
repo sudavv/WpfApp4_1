@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp4_1", "WpfApp4_1\WpfApp4_1.csproj", "{89BA7628-9EAB-4B30-87E2-380A4AACA563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89BA7628-9EAB-4B30-87E2-380A4AACA563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BA7628-9EAB-4B30-87E2-380A4AACA563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BA7628-9EAB-4B30-87E2-380A4AACA563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BA7628-9EAB-4B30-87E2-380A4AACA563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF3E0F0-A888-4664-8E5D-60DE79E1A17E}
+	EndGlobalSection
+EndGlobal
